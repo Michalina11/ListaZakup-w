@@ -42,9 +42,9 @@ $(document).ready(function () {
 
     $("#restoreBtn").click(function () {
         $("#shoppingList").html(`
-            <li class="list-group-item">Jajka</li>
-            <li class="list-group-item">Ser</li>
-            <li class="list-group-item">Sok</li>
+            <li class="list-group-item">Chleb</li>
+            <li class="list-group-item">Mleko</li>
+            <li class="list-group-item">Masło</li>
         `);
     });
 
